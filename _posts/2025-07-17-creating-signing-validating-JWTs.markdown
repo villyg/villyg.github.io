@@ -2,7 +2,8 @@
 layout: post
 title: "Creating, Signing, and Validating JWTs with Public-Private Key Pairs Using JWKS in Node.js"
 date: 2025-07-17 17:37:16 -0400
-categories: node security oauth
+categories: [nodejs, security, oauth]
+permalink: /posts/:title
 ---
 
 ## Introduction
