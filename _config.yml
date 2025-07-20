@@ -29,7 +29,7 @@ github_username:  villyg
 linkedin_username: villyg
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
