@@ -10,6 +10,36 @@ permalink: /posts/:title
 
 This blog post will walk you through an implementation of the `client credentials` grant flow using a `client assertion`. We will build a system to create, sign, and validate JSON Web Tokens (JWTs) using public-private key pairs and JSON Web Key Sets (JWKS) in Node.js. We'll use Node/Express for the server framework, Jose for JWT signing and validation, and Axios for HTTP requests. The system is composed of a bootstrapper and three microservices, orchestrated with Docker Compose for easy setup and execution.
 
+The workflow looks as follows:
+
+<pre class="mermaid">
+sequenceDiagram
+        participant Client
+        participant Auth
+        participant Api
+        activate Client
+        Client->>Client: generate client_assertion
+        Client->>Client: sign client_assertion with private key
+        Client->>Auth: Exchange client assertion for access_token
+        activate Auth        
+        Auth->>Auth: Verify client_assertion with public key
+        Auth->>Auth: Generate access_token
+        Auth->>Auth: Sign access_token with private key
+        Auth->>Client: return access_token
+        deactivate Auth
+        Client->>Api: Get protected resource with access_token
+        activate Api
+        Api->>Auth: Get public key from JWKS
+        activate Auth
+        Auth->>Api: return public key
+        deactivate Auth
+        Api->>Api: Verify access_token with public key
+        Api->>Client: Return protected resource
+        deactivate Api
+        deactivate Client
+</pre>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+
 The codebase includes:
 
 1. Bootstrapper: Generates a public-private key pair and a JWKS.
