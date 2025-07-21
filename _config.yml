@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Villy G's blog
-email: villyg@icloud.com
+# email: villyg@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
  Software Craftsman
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,6 +36,8 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
+header_pages:
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
