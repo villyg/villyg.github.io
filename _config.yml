@@ -30,7 +30,8 @@ github_username:  villyg
 linkedin_username: villyg
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
