@@ -29,9 +29,17 @@ twitter_username: villyg
 github_username:  villyg
 linkedin_username: villyg
 
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: villyg
+
+comments: true
 # Build settings
-# theme: minima
-remote_theme: "jekyll/minima@1e8a445"
+theme: minima
+# remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
