@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Software Craftsman
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://villyg.com" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: G-P54QYK6618 
 twitter_username: villyg
 github_username:  villyg
 linkedin_username: villyg
@@ -33,6 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +56,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
