@@ -29,6 +29,22 @@ Gun Vault is completely free and is available on the App Store.
 
 ## Version history
 
+### 2.2.1
+- Minor bug fixes and improvements
+
+### 2.1.1
+- Added ability to export ammo
+
+### 2.0.1
+- Added ability to catalog ammo
+
+### 1.5
+- Minor bug fixes and improvements
+
+### 1.4
+- Added ability to expirt data
+- Minor bug fixes and improvements
+
 ### 1.3
 
 - Added ability to record purchase date and price
