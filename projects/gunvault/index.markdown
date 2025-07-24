@@ -55,3 +55,8 @@ Gun Vault is completely free and is available on the App Store.
 
 - Added ability to record various details on guns: type, make, model, caliber, capacity, action, finish, serial number
 - Added ability to configure gun entry settings: type, make, caliber, capacity, action, finish
+
+
+## Feedback
+Send any feedback using the form below.
+{% include contact-form.html %}
