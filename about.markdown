@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+![/images/photo.jpg](/images/photo.jpg){: width="300px" style="float:left; padding:10px" }
+
+
 Welcome! I’m a Chief Solutions Architect with a strong focus on building secure, scalable, and high-performing systems across cloud, DevOps, integrations, and healthcare IT. I lead enterprise architecture initiatives and work closely with engineering teams to turn complex challenges into practical, future-ready solutions.
 
 On this blog, I share lessons from the field—real-world patterns, trade-offs, and strategies that come from leading architecture efforts at scale. Whether it’s cloud-native design, system modernization, or performance tuning, I enjoy breaking down big problems and exploring what works (and what doesn’t) in practice.
