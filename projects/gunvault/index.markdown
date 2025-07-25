@@ -29,6 +29,9 @@ Gun Vault is completely free and is available on the App Store.
 
 ## Version history
 
+### 3.0
+- Minor bug fixes and improvements
+
 ### 2.2.1
 - Minor bug fixes and improvements
 
