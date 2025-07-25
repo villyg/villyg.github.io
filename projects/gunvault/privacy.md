@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Gun Vault
+title: Privacy Policy
 permalink: /projects/gunvault/privacy
 ---
-# Privacy Policy
 
 **Effective Date:** July 25, 2025  
 **App Name:** Gun Vault
@@ -12,7 +11,7 @@ Gun Vault ("we", "our", or "us") respects your privacy. This Privacy Policy is p
 
 ---
 
-## 1. Information Collection
+### 1. Information Collection
 
 We do **not** collect any information about you or your device when you use our App. This includes, but is not limited to:
 
@@ -24,26 +23,26 @@ We do **not** collect any information about you or your device when you use our 
 
 ---
 
-## 2. Data Sharing
+### 2. Data Sharing
 
 Since we do not collect any data, we do not share any data with third parties.
 
 ---
 
-## 3. Third-Party Services
+### 3. Third-Party Services
 
 Gun Vault does not use any third-party services or SDKs that collect or process personal data.
 
 
 ---
 
-## 4. Changes to This Privacy Policy
+### 4. Changes to This Privacy Policy
 
 We may update this Privacy Policy if the nature of the app changes in the future. Any updates will be posted here with a new effective date.
 
 ---
 
-## 5. Contacts
+### 5. Contacts
 
 Use the form below for contact.
 
