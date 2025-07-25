@@ -29,25 +29,36 @@ Gun Vault is completely free and is available on the App Store.
 
 ## Version history
 
+### 3.2
+
+- Fixed TouchID fallback to pin
+
 ### 3.1
+
 - Expanded export functionality to use system options intstead of e-mail only
 
 ### 3.0
+
 - Bug fixes and improvements
 
 ### 2.2.1
+
 - Minor bug fixes and improvements
 
 ### 2.1.1
+
 - Added ability to export ammo
 
 ### 2.0.1
+
 - Added ability to catalog ammo
 
 ### 1.5
+
 - Minor bug fixes and improvements
 
 ### 1.4
+
 - Added ability to expirt data
 - Minor bug fixes and improvements
 
@@ -83,5 +94,6 @@ Gun Vault is completely free and is available on the App Store.
 [Privacy policy can be read here](/projects/gunvault/privacy)
 
 ## Feedback
+
 Send any feedback using the form below.
 {% include contact-form.html %}
