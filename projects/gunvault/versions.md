@@ -4,8 +4,7 @@ title: Version History
 permalink: /projects/gunvault/versions
 ---
 | Version | Changes | Release date |
-| 3.2 | Fixed TouchID fallback to pin | 2025-07-29 |
-| 3.1 | Expanded export functionality to use system options intstead of e-mail only | 2025-07-26 |
+| 3.1 | Expanded export functionality to use system options intstead of e-mail only <br/> Fixed TouchID fallback to pin | 2025-07-26 |
 | 3.0 | Bug fixes and improvements | | 
 | 2.2.1 | Minor bug fixes and improvements | |
 | 2.1.1 | Added ability to export ammo | |
