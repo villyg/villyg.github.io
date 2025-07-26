@@ -5,7 +5,7 @@ permalink: /projects/gunvault/versions
 ---
 
 | Version | Changes | Release date |
-| 3.2.0 | Expanded export functionality to use system options intstead of e-mail only <br/> Fixed TouchID fallback to pin | 2025-07-28 |
+| 3.1.0 | Expanded export functionality to use system options intstead of e-mail only <br/> Fixed TouchID fallback to pin | 2025-07-28 |
 | 3.0.0 | Updated code to latest version of Swift <br/> Fixed major bugs | 2025-07-26 |
 | 2.2.1 | Minor bug fixes and improvements | |
 | 2.1.1 | Added ability to export ammo | |
