@@ -5,6 +5,7 @@ permalink: /projects/gunvault/versions
 ---
 
 | Version | Changes | Release date |
+| 4.0.2 | Fixed a bug with Notes not filling out the screen <br /> Minor refactoring and optimizations | 2025-08-01 |
 | 4.0.1 | Added logout button <br/> Improved biometrics check <br /> Added "Clear" button on date picker <br /> Fixed bug with date picker defaulting to current date <br /> Fixed bug with date picker not accepting null value | 2025-07-30 |
 | 4.0.0 | Added iCloud sync support to CoreData | 2025-07-29 |
 | 3.1.0 | Expanded export functionality to use system options intstead of e-mail only <br/> Fixed TouchID fallback to pin | 2025-07-28 |
