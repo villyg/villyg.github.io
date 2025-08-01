@@ -2,9 +2,20 @@
 layout: post
 title: "Implementing client credentials grant flow with public/private key pair, client assertion, and JWKS in Node.js"
 date: 2025-07-17 17:37:16 -0400
-categories: [nodejs, security, oauth]
+tags: [nodejs, security, oauth]
 permalink: /posts/:title
 ---
+
+- [Introduction](#introduction)
+- [Step 1: Project Setup](#step-1-project-setup)
+- [Step 2: Bootstrapper - Generating Keys and JWKS](#step-2-bootstrapper---generating-keys-and-jwks)
+- [Step 3: Auth Server - Serving JWKS and Signing JWTs](#step-3-auth-server---serving-jwks-and-signing-jwts)
+- [Step 4: API Server - Protecting a Route with JWT Validation](#step-4-api-server---protecting-a-route-with-jwt-validation)
+- [Step 5: Client - Fetching Token and Accessing Protected Resource](#step-5-client---fetching-token-and-accessing-protected-resource)
+- [Step 6: Docker Compose Setup](#step-6-docker-compose-setup)
+- [Step 7: Running the System](#step-7-running-the-system)
+- [Step 8: Testing Manually](#step-8-testing-manually)
+- [Conclusion](#conclusion)
 
 ## Introduction
 

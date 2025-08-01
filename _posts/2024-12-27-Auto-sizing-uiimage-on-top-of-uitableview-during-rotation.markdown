@@ -2,9 +2,14 @@
 layout: post
 title: "Auto-sizing UIImage on top of UITableView during rotation"
 date: 2024-12-27 17:37:16 -0400
-categories: [swift, ios]
+tags: [swift, ios]
 permalink: /posts/:title
 ---
+
+- [Introduction](#introduction)
+- [Set Up](#set-up)
+- [Primary image](#primary-image)
+- [Rotation support](#rotation-support)
 
 ## Introduction
 
@@ -23,7 +28,7 @@ I thought this would be a simple task until I ended up spending over 2 hrs tryin
 
 We’ll keep it very simple - 1 grouped-style table with 3 sections and 5 rows inside each section.
 
-```Swift
+```swift
 import UIKit
 class ViewController: UITableViewController {
     
@@ -81,7 +86,7 @@ In order to add a primary image on top we need to override 2 methods: `heightFor
 
 Note that we are not using the device orientation but the statusBar orientation instead. This is because while the device can be rotated - the interface could be locked for rotation in the same time.
 
-```Swift
+```swift
 override func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
     
     if section == 0 {
@@ -99,7 +104,7 @@ override func tableView(_ tableView: UITableView, heightForHeaderInSection secti
 }
 ```
 
-```Swift
+```swift
 
 override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
  
@@ -124,7 +129,7 @@ override func tableView(_ tableView: UITableView, viewForHeaderInSection section
 
 The last thing that is left to add it the rotation support. Note that there are 3 phases that allow hooks. For our purpose we’ll use the before rotation and during rotation to invalidate the table layout. My first try was actually adding `tableView.reloadData()` instead but it resulted in a flicker of the screen so `beginUpdates()` and `endUpdates()` ended up being the better choice.
 
-```Swift
+```swift
 override func viewWillTransition(to size: CGSize, with coordinator: UIViewControllerTransitionCoordinator) {
     super.viewWillTransition(to: size, with: coordinator)
     
