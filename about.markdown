@@ -30,5 +30,4 @@ On this blog, I share lessons from the field—real-world patterns, trade-offs, 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0188cca-bbbe-4da0-8765-982f32b5008c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad1d9ed5-2a20-4986-809a-7e67431db3d0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="422726de-2a28-486e-ade0-c1c6a59aee7a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="68693fab-4c2e-4702-b452-0fe450873661" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
