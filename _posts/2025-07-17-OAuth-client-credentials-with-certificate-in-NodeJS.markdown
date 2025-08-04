@@ -2,7 +2,7 @@
 layout: post
 title: "Implementing client credentials grant flow with public/private key pair, client assertion, and JWKS in Node.js"
 date: 2025-07-17 17:37:16 -0400
-tags: [nodejs, security, oauth]
+tags: nodejs security oauth
 permalink: /posts/:title
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Auto-sizing UIImage on top of UITableView during rotation"
 date: 2024-12-27 17:37:16 -0400
-tags: [swift, ios]
+tags: swift ios
 permalink: /posts/:title
 ---
 
