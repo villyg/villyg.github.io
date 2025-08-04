@@ -27,13 +27,18 @@ Gun Vault is completely free and is available on the App Store.
 <a href="https://apps.apple.com/app/apple-store/id1204610507?pt=112798817&ct=Blog&mt=8" target="_blank" rel="external"><img src="Icon.jpg"></a>
 <a href="https://apps.apple.com/app/apple-store/id1204610507?pt=112798817&ct=Blog&mt=8" target="_blank" rel="external"><img src="/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg"></a>
 
+
 ## Version history
 
-[Version history can be seen here](/projects/gunvault/versions)
+- [Version history can be seen here](/projects/gunvault/versions)
+
+## Backlog
+
+- [Backlog can be seen here](/projects/gunvault/backlog)
 
 ## Privacy policy
 
-[Privacy policy can be read here](/projects/gunvault/privacy)
+- [Privacy policy can be read here](/projects/gunvault/privacy)
 
 ## Feedback
 
