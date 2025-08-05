@@ -20,6 +20,7 @@ The table below represents a backlog based on user feedback. It is used to drive
 | Photo title with text | 1 | backlog |
 | Firearm photo thumbnail on list | 1 | backlog |
 | Dollar value of collection | 1 | backlog |
+| Sort and filter on ammo | 1 | backlog |
 
 ## Feedback
 
