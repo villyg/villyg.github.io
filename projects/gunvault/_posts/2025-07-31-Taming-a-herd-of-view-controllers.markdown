@@ -3,7 +3,6 @@ layout: post
 title: "Taming a Herd of View Controllers: Refactoring for Simplicity in Core Data with Swift"
 date: 2025-07-31 17:37:16 -0400
 tags: swift ios core-data
-permalink: /posts/:title
 ---
 
 - [Introduction](#introduction)
