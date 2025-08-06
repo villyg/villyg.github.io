@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implementing Drag and Drop in UICollectionView and Core Data – Part 1"
-date: 2025-08-05 18:30:00 -0400
+date: 2025-08-04 18:30:00 -0400
 tags: swift ios core-data
 ---
 
