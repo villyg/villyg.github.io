@@ -35,13 +35,13 @@ Let's break down what each of these means:
 
 - **Width (10′)**: Now for my biggest constraint. The width of the garage stall is exactly 10′. This is widely considered the minimum viable width for a simulator, and it forces some very important decisions right from the start. With only 10′ from wall to wall, I can’t realistically center the hitting area. There simply wouldn't be enough room for a full, confident swing on both sides of the ball without fear of hitting the side walls. This immediately confirmed that **I must build an "offset" simulator**. I'll have to push the hitting area to one side of the garage stall to maximize the swing space for a single player orientation. This realization leads directly to the next big question...
 
-## Righty, Lefty, or Both?
+## Righty, lefty, or both?
 
 This might seem like a small detail, but it has a huge impact on the project since I am **a lefty** and almost all of my friends are **righties**. 
 Based on the width constraint above, I have to offset the tee. However, if I want to have friends and family over - I'll likely have both right- and left-handed players. This means I must actually have **dual offset** and a tee spot on each side. It also means **I will need a launch monitor that can accomdate the dual offset**.
 
 
-## Let's Talk Budget
+## Let's talk budget
 
 A golf simulator can cost anywhere from a few thousand dollars to the price of a luxury car. It was crucial for me to set a realistic budget from the start.
 
@@ -55,7 +55,7 @@ I've broken my budget into the four core components:
 
 My budget for this is extremely low so I'm hoping to allocate it carefully across these categories and to provide a detailed breakdown at the end. I know that the dual offset requirement will affect the cost so if it becomes too much - it might be time for early eject.
 
-## What's Next?
+## What's next?
 
 Now that I have a blueprint, the real fun begins. In the next post, I'll dive deep into **Part 1: Launch Monitor & Software.** I decided to focus on this first because given the non-negotiables above, there is a high probability that I either price myself out or even worse - not be able to find one at all.
 
