@@ -4,7 +4,7 @@ title: "No More Off-Season: Building a Garage Golf Simulator - Part 2: Launch Mo
 date: 2025-08-09 17:37:16 -0400
 tags: golf
 ---
-Welcome back to my DIY golf simulator journey!. In [Part 1]({% link hobbies/golf/_posts/2025-08-05-Building-a-golf-simulator-part-2.md  %}), I talked about measuring my space and figuring out the basics of my simulator setup. Now it’s time to choose the heart of the system: the **launch monitor**. This is the technological brain that translates a physical golf swing into a virtual shot. Making the wrong choice here could mean inaccurate data, endless frustration, or a system that just doesn't work in my space.
+Welcome back to my DIY golf simulator journey!. In [Part 1]({% link hobbies/golf/_posts/2025-08-05-Building-a-golf-simulator-part-1.md  %}), I talked about measuring my space and figuring out the basics of my simulator setup. Now it’s time to choose the heart of the system: the **launch monitor**. This is the technological brain that translates a physical golf swing into a virtual shot. Making the wrong choice here could mean inaccurate data, endless frustration, or a system that just doesn't work in my space.
 
 
 ## My Shortlist

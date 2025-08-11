@@ -56,6 +56,6 @@ My budget for this is extremely low so I'm hoping to allocate it carefully acros
 
 ## What's next?
 
-Now that I have a blueprint, the real fun begins. In the next post, I'll dive deep into **Part 2: Launch Monitor & Software.** I decided to focus on this first because given the non-negotiables above, there is a high probability that I either price myself out or even worse - not be able to find one at all.
+Now that I have a blueprint, the real fun begins. In the next post, I'll dive deep into [**Part 2: Launch Monitor & Software.**]({% link hobbies/golf/_posts/2025-08-09-Building-a-golf-simulator-part-2.md  %}) I decided to focus on this first because given the non-negotiables above, there is a high probability that I either price myself out or even worse - not be able to find one at all.
 
 This is going to be an incredible project. I hope you'll join me on this journey, and feel free to drop your own questions and plans in the comments below!
