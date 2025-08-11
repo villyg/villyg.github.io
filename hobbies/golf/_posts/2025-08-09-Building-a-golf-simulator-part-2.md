@@ -64,11 +64,11 @@ Each of these units sits beside the golfer, making them a great fit for my space
 
 
 
-### **Breaking It Down: What Really Matters?**
+## Breaking It Down: What Really Matters?
 
 With the "perfect" overhead solution off the table, my decision comes down to which compromises I'm willing to make with a floor unit.
 
-#### **Data Quality & Accuracy**
+### Data Quality & Accuracy
 All three provide the measured data I want, but to varying degrees of precision.
 * **Bushnell Launch Pro:** The king of raw ball data accuracy. It’s as close to tour-level as you can get, but you have to pay a premium subscription to unlock its club data capabilities.
 * **SkyTrak+:** A powerful all-around performer with excellent accuracy on both ball and club data right out of the box.
@@ -76,14 +76,14 @@ All three provide the measured data I want, but to varying degrees of precision.
 
 **My Take:** The data from all three is excellent for my needs. The extra precision of the premium units is nice, but I question if it's worth a 5x to 6x increase in long-term cost.
 
-#### **The Real Cost: Software & Subscriptions**
+### The Real Cost: Software & Subscriptions
 This is where the choice becomes crystal clear. My goal is to play GSPro software without being chained to expensive annual fees just to connect.
 * **Bushnell Launch Pro & SkyTrak+:** These are built on the subscription model. To get the features I want and connect to GSPro, I'd be paying hundreds of dollars every year, forever. Over just a few years, the cost of the software subscription would be more than the entire price of the Square Golf unit.
 * **Square Golf:** The hero of the DIY builder. It has a policy of **no extra fees** to connect to GSPro. The price on the box is the real price to get up and running with the best community software. I can also go and buy Awesome Golf for couple hundred bucks and play for quite a while before I even get a GSPro subscription.
 
 **My Take:** This isn't just a feature; it's a philosophy. The Square Golf model respects the customer, while the others feel designed to maximize recurring revenue.
 
-## **The Final Decision**
+## The Final Decision
 
 My decision-making funnel was clear:
 1.  Space limitations eliminated all radar units.
