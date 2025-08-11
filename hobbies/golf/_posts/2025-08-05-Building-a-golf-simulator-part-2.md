@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "No More Off-Season: Building a Garage Golf Simulator (Intro)"
-date: 2025-08-08 17:37:16 -0400
+title: "No More Off-Season: Building a Garage Golf Simulator - Part 1: Introduction"
+date: 2025-08-05 17:37:16 -0400
 tags: golf
 ---
-
 It's a dream many golfers share: the ability to play a round at Pebble Beach or St Andrews at a moment's notice, rain or shine, day or night. No tee times, no weather delays, just pure golf. For a while now, I've dreamed of having my own golf simulator. This year, I'm finally turning that dream into a reality, and I'm taking you along for my entire journey.
 
 Welcome to the first post in my multi-part series on building a DIY golf simulator from scratch.
@@ -45,7 +44,7 @@ Based on the width constraint above, I have to offset the tee. However, if I wan
 
 A golf simulator can cost anywhere from a few thousand dollars to the price of a luxury car. It was crucial for me to set a realistic budget from the start.
 
-I've broken my budget into the four core components:
+I've broken my budget into the following core components:
 1.  **Launch monitor & software:** The brains of the operation.
 2.  **Enclosure & screen:** The physical structure.
 3.  **Projector & PC:** The visuals.
@@ -57,6 +56,6 @@ My budget for this is extremely low so I'm hoping to allocate it carefully acros
 
 ## What's next?
 
-Now that I have a blueprint, the real fun begins. In the next post, I'll dive deep into **Part 1: Launch Monitor & Software.** I decided to focus on this first because given the non-negotiables above, there is a high probability that I either price myself out or even worse - not be able to find one at all.
+Now that I have a blueprint, the real fun begins. In the next post, I'll dive deep into **Part 2: Launch Monitor & Software.** I decided to focus on this first because given the non-negotiables above, there is a high probability that I either price myself out or even worse - not be able to find one at all.
 
 This is going to be an incredible project. I hope you'll join me on this journey, and feel free to drop your own questions and plans in the comments below!
