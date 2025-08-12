@@ -8,7 +8,6 @@ The table below represents a backlog based on user feedback. It is used to drive
 
 | Feature | # votes | Status |
 | :--- | :---: | :---: |
-| Custom photo order | 2 | in progress |
 | Accessory inventory | 5 | backlog |
 | Print/export individual item | 2 | backlog |
 | Updated UI | 2 | backlog |
