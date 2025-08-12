@@ -18,7 +18,7 @@ This isn't just about buying a kit and plugging it in. This is about my research
 
 <p align="center"><b>But before I buy a single piece of equipment, it all starts with a plan.</b></p>
 
-Building a golf simulator is a project of passion, but a successful one is built on a foundation of careful planning. Rushing into purchases without a clear design is the fastest way to blow a budget and still end up with a setup that doesn't work. So, in this first post, I'm focusing on the blueprint and the absolute non-negotiables. These are the fundamentals I have to address for myself before I even thought about adding a single item to my shopping cart.
+Building a golf simulator is a project of passion, but a successful one is built on a foundation of careful planning. Rushing into purchases without a clear design is the fastest way to blow a budget and still end up with a setup that doesn't work. So, in this first post, I'm focusing on the blueprint and the absolute non-negotiables. These are the fundamentals I have to address for myself before I even think about adding a single item to my shopping cart.
 
 ## How much room do I *really* have?
 

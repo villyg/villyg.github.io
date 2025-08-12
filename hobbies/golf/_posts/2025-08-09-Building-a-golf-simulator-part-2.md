@@ -6,7 +6,7 @@ tags: golf
 ---
 Welcome back to my DIY golf simulator journey!. In [Part 1]({% link hobbies/golf/_posts/2025-08-05-Building-a-golf-simulator-part-1.md  %}), I talked about measuring my space and figuring out the basics of my simulator setup. Now it’s time to choose the heart of the system: the **launch monitor**. This is the technological brain that translates a physical golf swing into a virtual shot. Making the wrong choice here could mean inaccurate data, endless frustration, or a system that just doesn't work in my space.
 
-![Floor plan](/hobbies/golf/images/Square_Golf.jpg)
+![Square Golf](/hobbies/golf/images/Square_Golf.jpg)
 
 ## My Shortlist
 
@@ -93,6 +93,8 @@ My decision-making funnel was clear:
 
 
 **My Decision:** I ordered the **[Square Golf launch monitor](https://www.squaregolf.com/launchmonitor)**.
+
+![Square Golf](/hobbies/golf/images/Square_Golf_2.jpg)
 
 After considering the absolute best-case scenario (an overhead unit) and ruling it out on price, the choice became easy. The Square Golf provides the essential features of the far more expensive camera units — a side placement perfect for my space and measured club data for real game improvement — but it does so without the punitive subscription model.
 
