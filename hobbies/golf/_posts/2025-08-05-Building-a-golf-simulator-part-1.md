@@ -8,6 +8,12 @@ It's a dream many golfers share: the ability to play a round at Pebble Beach or 
 
 Welcome to the first post in my multi-part series on building a DIY golf simulator from scratch.
 
+
+<figure>
+    <img src='/hobbies/golf/images/AI.png' alt='missing' />
+    <figcaption>AI rendering by Gemini 2.5 Pro</figcaption>
+</figure>
+
 This isn't just about buying a kit and plugging it in. This is about my research, my planning, the inevitable challenges, and the satisfaction of hitting that first perfect shot in a space I built myself. In this series, I'll cover everything from choosing the right launch monitor to building the enclosure and dialing in the software.
 
 <p align="center"><b>But before I buy a single piece of equipment, it all starts with a plan.</b></p>
