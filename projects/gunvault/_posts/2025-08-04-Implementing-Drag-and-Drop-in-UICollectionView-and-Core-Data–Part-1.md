@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Implementing Drag and Drop in UICollectionView and Core Data – Part 1"
-date: 2025-08-05 18:30:00 -0400
+date: 2025-08-04 18:30:00 -0400
 tags: swift ios core-data
 ---
 
-- [Introduction](#introduction)
+One of the feature requests I received was to allow users to rearrange gun photos in a custom order. Since I was planning other changes to the photos module, I decided to tackle this request first as it would lay a solid foundation for future updates. What seemed like a simple task turned out to be a bit more complex than expected, so I decided to blog about it.
+
 - [Background](#background)
 - [Plan](#plan)
   - [Step 1: Updating the model](#step-1-updating-the-model)
@@ -15,10 +16,6 @@ tags: swift ios core-data
 - [Root cause analysis](#root-cause-analysis)
 - [Solution](#solution)
 - [Conclusion](#conclusion)
-
-## Introduction
-
-One of the feature requests I received was to allow users to rearrange gun photos in a custom order. Since I was planning other changes to the photos module, I decided to tackle this request first as it would lay a solid foundation for future updates. What seemed like a simple task turned out to be a bit more complex than expected, so I decided to blog about it.
 
 ## Background
 

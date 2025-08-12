@@ -6,19 +6,6 @@ tags: nodejs security oauth
 permalink: /posts/:title
 ---
 
-- [Introduction](#introduction)
-- [Step 1: Project Setup](#step-1-project-setup)
-- [Step 2: Bootstrapper - Generating Keys and JWKS](#step-2-bootstrapper---generating-keys-and-jwks)
-- [Step 3: Auth Server - Serving JWKS and Signing JWTs](#step-3-auth-server---serving-jwks-and-signing-jwts)
-- [Step 4: API Server - Protecting a Route with JWT Validation](#step-4-api-server---protecting-a-route-with-jwt-validation)
-- [Step 5: Client - Fetching Token and Accessing Protected Resource](#step-5-client---fetching-token-and-accessing-protected-resource)
-- [Step 6: Docker Compose Setup](#step-6-docker-compose-setup)
-- [Step 7: Running the System](#step-7-running-the-system)
-- [Step 8: Testing Manually](#step-8-testing-manually)
-- [Conclusion](#conclusion)
-
-## Introduction
-
 This blog post will walk you through an implementation of the `client credentials` grant flow using a `client assertion`. We will build a system to create, sign, and validate JSON Web Tokens (JWTs) using public-private key pairs and JSON Web Key Sets (JWKS) in Node.js. We'll use Node/Express for the server framework, Jose for JWT signing and validation, and Axios for HTTP requests. The system is composed of a bootstrapper and three microservices, orchestrated with Docker Compose for easy setup and execution.
 
 The workflow looks as follows:
@@ -58,8 +45,17 @@ The codebase includes:
 3. API Server: Protects a route, validating access tokens using the Auth server's JWKS.
 4. Client: Signs a client assertion and exchanges it for an access token from the Auth server to access the API's protected resource.
 
-
 Below are step-by-step instructions, complete with sample code, to set up and run this system.
+
+- [Step 1: Project Setup](#step-1-project-setup)
+- [Step 2: Bootstrapper - Generating Keys and JWKS](#step-2-bootstrapper---generating-keys-and-jwks)
+- [Step 3: Auth Server - Serving JWKS and Signing JWTs](#step-3-auth-server---serving-jwks-and-signing-jwts)
+- [Step 4: API Server - Protecting a Route with JWT Validation](#step-4-api-server---protecting-a-route-with-jwt-validation)
+- [Step 5: Client - Fetching Token and Accessing Protected Resource](#step-5-client---fetching-token-and-accessing-protected-resource)
+- [Step 6: Docker Compose Setup](#step-6-docker-compose-setup)
+- [Step 7: Running the System](#step-7-running-the-system)
+- [Step 8: Testing Manually](#step-8-testing-manually)
+- [Conclusion](#conclusion)
 
 ### Prerequisites
 

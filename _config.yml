@@ -46,9 +46,11 @@ plugins:
 
 
 header_pages:
-  - projects/index.markdown
-  - about.markdown
+  - hobbies/index.md
+  - projects/index.md
+  - about.md
 
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -8,7 +8,6 @@ The table below represents a backlog based on user feedback. It is used to drive
 
 | Feature | # votes | Status |
 | :--- | :---: | :---: |
-| Custom photo order | 2 | in progress |
 | Accessory inventory | 5 | backlog |
 | Print/export individual item | 2 | backlog |
 | Updated UI | 2 | backlog |
@@ -21,6 +20,8 @@ The table below represents a backlog based on user feedback. It is used to drive
 | Firearm photo thumbnail on list | 1 | backlog |
 | Dollar value of collection | 1 | backlog |
 | Sort and filter on ammo | 1 | backlog |
+| Additonal confirmation on delete | 1 | backlog |
+| Ability to delete iCloud data | 1 | backlog |
 
 ## Feedback
 
