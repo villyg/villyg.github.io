@@ -7,6 +7,7 @@ permalink: /projects/gunvault/versions
 | Version | Changes | Release date |
 | 4.3.0 | Enabled drag and drop to rerrange functionality for photos | 2025-08-15 |
 | 4.2.0 | Enabled iCloud sync feature for premium users <br /> Fixed a bug throwing a validation error upon gun insert | 2025-08-13 |
+| 4.1.2 | Fixed bug with Core Data not saving immediately <br /> Wired up iCloud sync to premium purchase | 2025-08-10 |
 | 4.1.1 | Fixed a bug with iPad crashing during export <br />Added barrel length to exported fields | 2025-08-03 |
 | 4.1.0 | Added ability to record barrel length <br /> Minor refactoring and optimizations | 2025-08-01 |
 | 4.0.2 | Fixed a bug with Notes not filling out the screen <br /> Minor refactoring and optimizations | 2025-08-01 |
