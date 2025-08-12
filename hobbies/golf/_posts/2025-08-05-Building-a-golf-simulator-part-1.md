@@ -10,7 +10,7 @@ Welcome to the first post in my multi-part series on building a DIY golf simulat
 
 
 <figure>
-    <img src='/hobbies/golf/images/AI.png' alt='missing' />
+    <img src='/hobbies/golf/images/AI.png' alt='AI rendering' />
     <figcaption>AI rendering by Gemini 2.5 Pro</figcaption>
 </figure>
 
