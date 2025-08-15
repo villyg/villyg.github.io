@@ -12,12 +12,10 @@ The table below represents a backlog based on user feedback. It is used to drive
 | Print/export individual item | 2 | backlog |
 | Updated UI | 2 | backlog |
 | Maintenance log | 1 | backlog |
-| Total round count | 1 | in progress |
 | Storage location | 1 | backlog |
 | Misc sort and filters | 1 | backlog |
 | Full collection photo album | 1 | backlog |
 | Photo title with text | 1 | backlog |
-| Firearm photo thumbnail on list | 1 | in progress |
 | Dollar value of collection | 1 | backlog |
 | Sort and filter on ammo | 1 | backlog |
 | Additonal confirmation on delete | 1 | backlog |
