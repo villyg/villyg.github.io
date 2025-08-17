@@ -19,7 +19,7 @@ The table below represents a backlog based on user feedback. It is used to drive
 | Sort and filter on ammo | 1 | backlog |
 | Additonal confirmation on delete | 1 | backlog |
 | Ability to delete iCloud data | 1 | backlog |
-| Range log | 1 backlog |
+| Range log | 1 | backlog |
 
 ## Feedback
 
