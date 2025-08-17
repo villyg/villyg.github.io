@@ -9,7 +9,6 @@ The table below represents a backlog based on user feedback. It is used to drive
 | Feature | # votes | Status |
 | :--- | :---: | :---: |
 | Accessory inventory | 5 | backlog |
-| Print/export individual item | 2 | backlog |
 | Updated UI | 2 | backlog |
 | Maintenance log | 1 | backlog |
 | Storage location | 1 | backlog |
@@ -20,6 +19,7 @@ The table below represents a backlog based on user feedback. It is used to drive
 | Sort and filter on ammo | 1 | backlog |
 | Additonal confirmation on delete | 1 | backlog |
 | Ability to delete iCloud data | 1 | backlog |
+| Range log | 1 backlog |
 
 ## Feedback
 
