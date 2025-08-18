@@ -22,7 +22,8 @@ Gun Vault supports all iPhone and iPad devices running iOS 10 or newer.
 
 ## Price
 
-Gun Vault is completely free and is available on the App Store.
+- The Free version of Gun Vault has no limitations on number of items that can be stored.
+- The available in-app purchase will unlock additional capabilties: cross-device sync via iCloud, PDF reporting, and CSV data export
 
 <a href="https://apps.apple.com/app/apple-store/id1204610507?pt=112798817&ct=Blog&mt=8" target="_blank" rel="external"><img src="Icon.jpg"></a>
 <a href="https://apps.apple.com/app/apple-store/id1204610507?pt=112798817&ct=Blog&mt=8" target="_blank" rel="external"><img src="/images/Download_on_the_App_Store_Badge_US-UK_135x40.svg"></a>
