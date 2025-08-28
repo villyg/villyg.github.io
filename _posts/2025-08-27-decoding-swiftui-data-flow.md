@@ -7,6 +7,7 @@ permalink: /posts/:title
 ---
 
 If you've spent any time with SwiftUI, you know it's a powerful framework for building user interfaces. But as your apps grow, a common question quickly arises: "What's the best way to pass data around?" You start with `@State` and `@Binding` for simple local data. But soon you find yourself needing to share data across many views, and things get complicated. You've probably seen `@Environment`, `@EnvironmentObject`, and `@StateObject` mentioned, but the distinction can be blurry. When do you use which? Let's demystify these three powerful property wrappers and understand their specific roles in your SwiftUI data flow.
+<!--more-->
 
 ## **@Environment**: Reading the System's Mind
 

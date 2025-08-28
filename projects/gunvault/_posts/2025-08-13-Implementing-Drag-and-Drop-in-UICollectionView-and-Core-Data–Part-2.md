@@ -6,6 +6,7 @@ tags: swift ios core-data
 ---
 
 In [Part 1]({% link projects/gunvault/_posts/2025-08-04-Implementing-Drag-and-Drop-in-UICollectionView-and-Core-Data–Part-1.md %}) of this series, I walked through the process of adding drag-and-drop functionality to a `UICollectionView` backed by Core Data. While I got it working, I mentioned that the solution, while functional, wasn't as modern as it could be. The `NSFetchedResultsControllerDelegate` implementation, with its manual block operations, felt a bit clunky and error-prone. This post is about that additional refactoring: moving from the traditional `NSFetchedResultsControllerDelegate` to the more modern `UICollectionViewDiffableDataSource`.
+<!--more-->
 
 - [Background](#background)
 - [The Plan: A Modern Approach](#the-plan-a-modern-approach)

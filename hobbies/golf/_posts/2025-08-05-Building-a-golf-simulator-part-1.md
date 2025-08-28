@@ -5,7 +5,7 @@ date: 2025-08-05 17:37:16 -0400
 tags: golf
 ---
 It's a dream many golfers share: the ability to play a round at Pebble Beach or St Andrews at a moment's notice, rain or shine, day or night. No tee times, no weather delays, just pure golf. For a while now, I've dreamed of having my own golf simulator. This year, I'm finally turning that dream into a reality, and I'm taking you along for my entire journey.
-
+<!--more-->
 Welcome to the first post in my multi-part series on building a DIY golf simulator from scratch.
 
 

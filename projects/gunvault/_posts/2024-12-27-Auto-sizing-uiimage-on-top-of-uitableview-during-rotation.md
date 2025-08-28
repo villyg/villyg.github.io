@@ -6,13 +6,14 @@ tags: swift ios
 ---
 
 As part of version 1.2 of Gun Vault I decided to include the functionality of having the primary image of a gun included on top of the Gun Details screen. I wanted the image to take 1/3 of the screen when the device is in portrait mode …
+<!--more-->
 
-![Portrait](/images/post-2017-12-27/snapshot-portrait.png)
+![Portrait](/assets/images/2024-12-27-Auto-sizing-uiimage-on-top-of-uitableview-during-rotation/snapshot-portrait.png)
 
 
 and full screen when in landscape mode.
 
-![Full screen](/images/post-2017-12-27/snapshot-landscape.png)
+![Full screen](/assets/images/2024-12-27-Auto-sizing-uiimage-on-top-of-uitableview-during-rotation/snapshot-landscape.png)
 
 I thought this would be a simple task until I ended up spending over 2 hrs trying to fine-tune it so I figured I’d write about it.
 
