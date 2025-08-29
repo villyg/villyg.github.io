@@ -3,7 +3,7 @@ layout: post
 title: "No More Off-Season: Building a Garage Golf Simulator - Part 1: Introduction"
 date: 2025-08-05 17:37:16 -0400
 tags: golf
-image: /assets/images/2025-08-05-Building-a-golf-simulator-part-1/mainimage.jpeg
+image: /assets/images/2025-08-05-Building-a-golf-simulator-part-1/mainimage.jpg
 ---
 It's a dream many golfers share: the ability to play a round at Pebble Beach or St Andrews at a moment's notice, rain or shine, day or night. No tee times, no weather delays, just pure golf. For a while now, I've dreamed of having my own golf simulator. This year, I'm finally turning that dream into a reality, and I'm taking you along for my entire journey.
 <!--more-->
