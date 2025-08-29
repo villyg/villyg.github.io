@@ -42,3 +42,109 @@
   border-radius: 6px;
   object-fit: cover;
 }
+
+
+/* ================================
+   Neutral Grayscale + Teal Accent
+   Overrides for Minima theme
+   ================================ */
+
+/* Backgrounds */
+body {
+  background-color: #f9f9f9; /* light gray background */
+  color: #333333; /* dark gray text for readability */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #111111; /* nearly black for strong contrast */
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: #008080; /* teal accent */
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #005f5f; /* darker teal for hover */
+  text-decoration: underline;
+}
+
+/* Navigation bar */
+.site-header {
+  background-color: #ffffff; /* clean white nav bar */
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.site-title, .site-nav a {
+  color: #333333;
+}
+
+.site-nav a:hover {
+  color: #008080;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #f0f0f0;
+  color: #666666;
+  border-top: 1px solid #e0e0e0;
+}
+
+.site-footer a {
+  color: #008080;
+}
+
+/* Excerpts / Post List */
+.post-excerpt {
+  color: #555555;
+}
+
+/* Buttons */
+button, .btn, input[type="submit"], input[type="button"] {
+  background-color: #008080;
+  color: #ffffff;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+button:hover, .btn:hover, input[type="submit"]:hover, input[type="button"]:hover {
+  background-color: #005f5f;
+}
+
+// /* Code snippets */
+// pre, code {
+//   background-color: #eeeeee;
+//   color: #222222;
+//   border-radius: 4px;
+//   padding: 0.2em 0.4em;
+// }
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #008080;
+  padding-left: 1em;
+  color: #555555;
+  font-style: italic;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #e0e0e0;
+  padding: 0.5em;
+}
+
+th {
+  background-color: #f5f5f5;
+  color: #111111;
+}
