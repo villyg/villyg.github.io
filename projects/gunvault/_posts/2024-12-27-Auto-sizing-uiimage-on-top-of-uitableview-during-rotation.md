@@ -3,6 +3,7 @@ layout: post
 title: "Auto-sizing UIImage on top of UITableView during rotation"
 date: 2024-12-27 17:37:16 -0400
 tags: swift ios
+featured_image: UIKit.png
 ---
 
 As part of version 1.2 of Gun Vault I decided to include the functionality of having the primary image of a gun included on top of the Gun Details screen. I wanted the image to take 1/3 of the screen when the device is in portrait mode …

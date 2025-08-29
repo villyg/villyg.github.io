@@ -4,6 +4,7 @@ title: "Implementing client credentials grant flow with public/private key pair,
 date: 2025-07-17 17:37:16 -0400
 tags: nodejs security oauth
 permalink: /posts/:title
+featured_image: NodeJS.png
 ---
 
 This blog post will walk you through an implementation of the `client credentials` grant flow using a `client assertion`. We will build a system to create, sign, and validate JSON Web Tokens (JWTs) using public-private key pairs and JSON Web Key Sets (JWKS) in Node.js. We'll use Node/Express for the server framework, Jose for JWT signing and validation, and Axios for HTTP requests. The system is composed of a bootstrapper and three microservices, orchestrated with Docker Compose for easy setup and execution.

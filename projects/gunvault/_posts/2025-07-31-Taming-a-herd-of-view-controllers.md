@@ -3,6 +3,7 @@ layout: post
 title: "Taming a Herd of View Controllers: Refactoring for Simplicity in Core Data with Swift"
 date: 2025-07-31 17:37:16 -0400
 tags: swift ios core-data
+featured_image: Swift.jpg
 ---
 
 If you’ve worked on an iOS app of any significant size, you’ve likely encountered it: the copy-paste monster. It starts innocently. You build a view controller, get it working perfectly, and then you need another one that’s almost the same. You duplicate the file, change a few lines, and move on. But then you need another, and another. Before you know it, you’re the reluctant owner of a herd of nearly identical view controllers, and any change to one means a tedious and error-prone update to all the others. To be fair - there is the [Rule of three (three strikes and you refactor)](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)), so some temporary duplication is very much okay as long as it is addressed in a timely manner.
