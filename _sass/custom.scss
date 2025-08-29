@@ -26,3 +26,19 @@
 //         margin-bottom: 0;
 //     }
 // }
+.post-item {
+  margin-bottom: 2rem;
+}
+
+.post-excerpt {
+  overflow: auto; /* ensures floated image doesn’t break layout */
+}
+
+.post-thumb {
+  float: left;
+  width: 240px;       /* adjust size as needed */
+  height: auto;
+  margin: 0 1rem 0.5rem 0; /* right + bottom spacing */
+  border-radius: 6px;
+  object-fit: cover;
+}

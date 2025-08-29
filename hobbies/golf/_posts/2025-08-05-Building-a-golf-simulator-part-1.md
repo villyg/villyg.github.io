@@ -3,6 +3,7 @@ layout: post
 title: "No More Off-Season: Building a Garage Golf Simulator - Part 1: Introduction"
 date: 2025-08-05 17:37:16 -0400
 tags: golf
+image: /assets/images/2025-08-05-Building-a-golf-simulator-part-1/mainimage.jpeg
 ---
 It's a dream many golfers share: the ability to play a round at Pebble Beach or St Andrews at a moment's notice, rain or shine, day or night. No tee times, no weather delays, just pure golf. For a while now, I've dreamed of having my own golf simulator. This year, I'm finally turning that dream into a reality, and I'm taking you along for my entire journey.
 <!--more-->
@@ -10,7 +11,7 @@ Welcome to the first post in my multi-part series on building a DIY golf simulat
 
 
 <figure>
-    <img src='/hobbies/golf/images/AI.png' alt='AI rendering' />
+    <img src='/assets/images/2025-08-05-Building-a-golf-simulator-part-1/AI.png' alt='AI rendering' />
     <figcaption>AI rendering by Gemini 2.5 Pro</figcaption>
 </figure>
 
@@ -24,11 +25,11 @@ Building a golf simulator is a project of passion, but a successful one is built
 
 This is the number one, non-negotiable starting point. My project will be built in a standard single-car garage stall. I'm lucky to have a spare bay in my tandem garage, but it comes with its own set of very specific dimensions. 
 
-![Garage photo](/hobbies/golf/images/Photo_1.jpeg)
+![Garage photo](/assets/images/2025-08-05-Building-a-golf-simulator-part-1/Photo_1.jpeg)
 
 After breaking out the tape measure, here’s what I'm working with and what it means for my build.
 
-![Floor plan](/hobbies/golf/images/Floor_plan_1.png)
+![Floor plan](/assets/images/2025-08-05-Building-a-golf-simulator-part-1/Floor_plan_1.png)
 
 <p align="center"><b>My dimensions are: 10' width × 12′ height × 21` depth.</b></p>
 

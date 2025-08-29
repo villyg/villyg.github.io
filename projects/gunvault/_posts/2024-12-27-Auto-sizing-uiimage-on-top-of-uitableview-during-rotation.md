@@ -3,14 +3,14 @@ layout: post
 title: "Auto-sizing UIImage on top of UITableView during rotation"
 date: 2024-12-27 17:37:16 -0400
 tags: swift ios
-featured_image: UIKit.png
+image: /assets/images/UIKit.png
 ---
 
 As part of version 1.2 of Gun Vault I decided to include the functionality of having the primary image of a gun included on top of the Gun Details screen. I wanted the image to take 1/3 of the screen when the device is in portrait mode …
+
 <!--more-->
 
 ![Portrait](/assets/images/2024-12-27-Auto-sizing-uiimage-on-top-of-uitableview-during-rotation/snapshot-portrait.png)
-
 
 and full screen when in landscape mode.
 
@@ -29,52 +29,52 @@ We’ll keep it very simple - 1 grouped-style table with 3 sections and 5 rows i
 ```swift
 import UIKit
 class ViewController: UITableViewController {
-    
+
     convenience init() {
-        
+
         self.init(style: UITableViewStyle.grouped)
-        
+
     }
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         self.navigationItem.title = "Gun details"
-        
+
     }
-    
-    
+
+
     // ***********************************************
     // MARK: - UITableViewDataSource
     // ***********************************************
-    
-    
-    
+
+
+
     override func numberOfSections(in tableView: UITableView) -> Int {
-        
+
         return 3
-        
+
     }
-    
-    
+
+
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        
+
         return 5
-        
+
     }
-    
-    
+
+
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        
+
         // since it is a static view we don't care about recycling at this time
         let result: UITableViewCell = UITableViewCell(style: .value1, reuseIdentifier: "cell")
-        
+
         result.textLabel?.text = "Text for row at: \(indexPath.row)"
         result.detailTextLabel?.text = "Details for row at: \(indexPath.row)"
-        
+
         return result
-        
+
     }
-    
+
 }
 ```
 
@@ -86,39 +86,39 @@ Note that we are not using the device orientation but the statusBar orientation 
 
 ```swift
 override func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
-    
+
     if section == 0 {
         let orientation = UIApplication.shared.statusBarOrientation
-        
+
         if orientation.isLandscape {
             return view.frame.height
         } else {
             return view.frame.height / 3
         }
     }
-    
+
     return UITableViewAutomaticDimension
-    
+
 }
 ```
 
 ```swift
 
 override func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
- 
+
     // We'll assume that there is only one section for now.
-    
+
     if section == 0 {
-        
+
         let imageView: UIImageView = UIImageView()
         imageView.clipsToBounds = true
         imageView.contentMode = .scaleAspectFill
         imageView.image =  UIImage(named: "gun")!
         return imageView
     }
-    
+
     return nil
-    
+
 }
 
 ```
@@ -130,23 +130,23 @@ The last thing that is left to add it the rotation support. Note that there are 
 ```swift
 override func viewWillTransition(to size: CGSize, with coordinator: UIViewControllerTransitionCoordinator) {
     super.viewWillTransition(to: size, with: coordinator)
-    
+
     //        print("will execute before rotation")
-    
+
     self.tableView.beginUpdates()
-    
+
     coordinator.animate(alongsideTransition: { (context: UIViewControllerTransitionCoordinatorContext) in
-        
+
         //            print("will execute during rotation")
-        
+
         self.tableView.endUpdates()
-        
+
     }) { (context: UIViewControllerTransitionCoordinatorContext) in
-        
+
         //            print("will execute after rotation")
-        
+
     }
-    
+
 }
 ```
 

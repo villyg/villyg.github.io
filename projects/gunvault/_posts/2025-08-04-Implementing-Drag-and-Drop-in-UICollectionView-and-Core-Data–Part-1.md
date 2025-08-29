@@ -3,10 +3,11 @@ layout: post
 title: "Implementing Drag and Drop in UICollectionView and Core Data – Part 1"
 date: 2025-08-04 18:30:00 -0400
 tags: swift ios core-data
-featured_image: UIKit.png
+image: /assets/images/UIKit.png
 ---
 
 One of the feature requests I received was to allow users to rearrange gun photos in a custom order. Since I was planning other changes to the photos module, I decided to tackle this request first as it would lay a solid foundation for future updates. What seemed like a simple task turned out to be a bit more complex than expected, so I decided to blog about it.
+
 <!--more-->
 
 - [Background](#background)
@@ -19,6 +20,7 @@ One of the feature requests I received was to allow users to rearrange gun photo
 - [Solution](#solution)
 - [Conclusion](#conclusion)
 <!-- more -->
+
 ## Background
 
 Since this is a Core Data-enabled application, the `PhotoListController` is a `UICollectionViewController` and also acts as a delegate for an `NSFetchedResultsController`. It retrieves photos and displays them in a 3-column grid using `UICollectionViewDelegateFlowLayout`. By default, photos are sorted by the date/time they were captured or imported. The controller also handles capture/import, selection, deletion, and exporting, all of which needed to be considered.
