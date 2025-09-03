@@ -9,7 +9,6 @@ The table below represents a backlog based on user feedback. It is used to drive
 | Feature | # votes | Status |
 | :--- | :---: | :---: |
 | Accessory inventory | 5 | in-progress |
-| Updated UI | 2 | backlog |
 | Maintenance log | 1 | backlog |
 | Storage location | 1 | backlog |
 | Misc sort and filters | 1 | backlog |

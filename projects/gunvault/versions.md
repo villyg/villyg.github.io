@@ -5,6 +5,7 @@ permalink: /projects/gunvault/versions
 ---
 
 | Version | Changes | Release date |
+| 5.0.0 | Updated to SwiftUI and introduced new user interface <br /> Improved form entry and validation <br /> Improved usability <br /> Added dark mode support | 2025-09-03 |
 | 4.5.0 | Added ability to generate Gun inventory PDF report <br /> Added ability to generate Ammo inventory PDF report <br /> Added ability to export single Gun to PDF | 2025-08-17 |
 | 4.4.0 | Added thumbnail of gun to gun list <br /> Added more information per ammo item on ammo list <br /> Grouped ammo list by caliber <br /> Added sub-total round count <br /> Added grand-total round count | 2025-08-18 |
 | 4.3.0 | Enabled drag and drop to rerrange functionality for photos | 2025-08-15 |
