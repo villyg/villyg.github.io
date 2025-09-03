@@ -5,6 +5,7 @@ permalink: /projects/gunvault/versions
 ---
 
 | Version | Changes | Release date |
+| 5.1.0 | Updated app name <br /> Added the ability to manage accessories <br /> Added version number to home screen <br /> Added ability to manage estimated gun value <br /> Fixed bug with exporting in CSV to file <br /> Updated gun reports to include totals <br /> Updated icons | 2025-08-04 |
 | 5.0.0 | Updated to SwiftUI and introduced new user interface <br /> Improved form entry and validation <br /> Improved usability <br /> Added dark mode support | 2025-09-03 |
 | 4.5.0 | Added ability to generate Gun inventory PDF report <br /> Added ability to generate Ammo inventory PDF report <br /> Added ability to export single Gun to PDF | 2025-08-17 |
 | 4.4.0 | Added thumbnail of gun to gun list <br /> Added more information per ammo item on ammo list <br /> Grouped ammo list by caliber <br /> Added sub-total round count <br /> Added grand-total round count | 2025-08-18 |
