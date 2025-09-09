@@ -5,6 +5,7 @@ permalink: /projects/gunvault/versions
 ---
 
 | Version | Changes | Release date |
+| 5.3.0| Added ability to sort Ammo list and persist it as preference <br /> Added ability to store, display and export Ammo grain <br /> Minor fixes and improvements | 2025-09-10 |
 | 5.2.0 | Added ability to record maintenance log <br /> Minor fixes | 2025-09-06 |
 | 5.1.0 | Updated app name <br /> Added the ability to manage accessories <br /> Added version number to home screen <br /> Added ability to manage estimated gun value <br /> Fixed bug with exporting in CSV to file <br /> Updated gun reports to include totals <br /> Updated icons | 2025-09-04 |
 | 5.0.0 | Updated to SwiftUI and introduced new user interface <br /> Improved form entry and validation <br /> Improved usability <br /> Added dark mode support | 2025-09-03 |
