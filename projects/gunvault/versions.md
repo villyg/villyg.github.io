@@ -5,8 +5,8 @@ permalink: /projects/gunvault/versions
 ---
 
 | Version | Changes | Release date |
-| 5.6.0 | Added iPad support < /br> Minor fixes and optimizations | 2025-10-02 |
-| 5.5.0 | Added ability to pinch-to-zoom photos < /br> Minor fixes and optimizations | 2025-09-30 |
+| 5.6.0 | Added iPad support <br /> Minor fixes and optimizations | 2025-10-02 |
+| 5.5.0 | Added ability to pinch-to-zoom photos <br /> Minor fixes and optimizations | 2025-09-30 |
 | 5.4.0 | Added abiiity to record range sessions | 2025-09-27 |
 | 5.3.2 | Added ability to collect and share diagnostic logs. <br /> Added ability to backup, store, and share the database. <br /> Added ability to delete local data. <br /> Added ability to delete cloud data. <br /> Added ability to delete reset cloud sync state. | 2025-08-24 |
 | 5.3.1 | Fixed bug with iCloud sync to ensure the server version takes priority <br /> Fixed bug with gun list item not reflecting updates | 2025-08-18 |
