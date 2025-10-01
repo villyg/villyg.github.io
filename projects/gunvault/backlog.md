@@ -8,14 +8,11 @@ The table below represents a backlog based on user feedback. It is used to drive
 
 | Feature | # votes | Status |
 | :--- | :---: | :---: |
-| Sort and filter on ammo | 1 | in progress |
+| Sort and filter on ammo | 1 | backlog |
 | Storage location | 1 | backlog |
 | Misc sort and filters | 1 | backlog |
 | Full collection photo album | 1 | backlog |
 | Photo title with text | 1 | backlog |
-| Additonal confirmation on delete | 1 | backlog |
-| Ability to delete iCloud data | 1 | backlog |
-| Range log | 1 | backlog |
 
 ## Feedback
 
