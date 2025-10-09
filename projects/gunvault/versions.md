@@ -5,6 +5,8 @@ permalink: /projects/gunvault/versions
 ---
 
 | Version | Changes | Release date |
+| 5.8.0 | Added ability to combine guns and accessories into kits | 2025-10-10 |
+| 5.7.0 | Added ability to change the gun list display mode to list of photos <br /> Changed gun details screen scroll mode to scroll the photos with the gun information <br /> Fixed a bug making toolbar buttons disappear | 2025-10-05 |
 | 5.6.0 | Added iPad support <br /> Minor fixes and optimizations | 2025-10-02 |
 | 5.5.0 | Added ability to pinch-to-zoom photos <br /> Minor fixes and optimizations | 2025-09-30 |
 | 5.4.0 | Added abiiity to record range sessions | 2025-09-27 |
