@@ -6,8 +6,7 @@ permalink: /projects/gunvault/versions
 
 | Version | Changes | Release date |
 | 5.10.0 | Added gun usage summary tab | 2025-10-17 |
-| 5.9.0 | Added tab to show gun health and service info <br /> Added global Maintenance dashboard showing collection health (premium) <br /> Resolved bug with validation errors showing managed object context message
-Minor fixes and improvements | 2025-10-15 |
+| 5.9.0 | Added tab to show gun health and service info <br /> Added global Maintenance dashboard showing collection health (premium) <br /> Resolved bug with validation errors showing managed object context message <br /> Minor fixes and improvements | 2025-10-15 |
 | 5.8.0 | Added ability to combine guns and accessories into kits | 2025-10-10 |
 | 5.7.0 | Added ability to change the gun list display mode to list of photos <br /> Changed gun details screen scroll mode to scroll the photos with the gun information <br /> Fixed a bug making toolbar buttons disappear | 2025-10-05 |
 | 5.6.0 | Added iPad support <br /> Minor fixes and optimizations | 2025-10-02 |

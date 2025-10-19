@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## [Gun Vault](/projects/gunvault)
+## [GunVault](https://gunvault.mobi)
 
 Gun Vault is an IOS app designed to be a personal record keeping tool for anyone who owns a firearm collection. It will help keep track of various details about each item - make, model, serial number, caliber, finish etc.
 
