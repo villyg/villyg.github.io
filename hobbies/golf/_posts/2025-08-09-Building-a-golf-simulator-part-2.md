@@ -102,4 +102,4 @@ The ability to connect to GSPro for free makes the total cost of ownership incre
 
 ## What's Next?
 
-With the brains of my operation chosen after a long and thorough search, it’s time to build its home. In **Part 3**, I’ll take you through the entire process of designing and building the enclosure—from constructing the frame to selecting the perfect impact screen.
+With the brains of my operation chosen after a long and thorough search, it’s time to build its home. In [**Part 3: Asembling the enclosure**]({% link hobbies/golf/_posts/2025-10-30-Building-a-golf-simulator_part-3.md  %}), I’ll take you through the entire process of designing and building the enclosure—from constructing the frame to selecting the perfect impact screen.
